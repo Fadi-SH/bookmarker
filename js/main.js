@@ -1,4 +1,4 @@
-// Listen for form submit
+// Listen for a form submit
 document.getElementById('myForm').addEventListener('submit', saveBookmark);
 
 // Save Bookmark
